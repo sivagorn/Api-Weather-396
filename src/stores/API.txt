@@ -1,0 +1,36 @@
+API =
+66af6261484edc25c7b1b61803d7547c
+
+1.
+X:Y =
+18.805912, 98.950880
+api.openweathermap.org/data/2.5/forecast?lat=18.805912&lon=98.950880&appid=66af6261484edc25c7b1b61803d7547c
+
+2.
+X:Y =
+18.808630, 98.949901
+api.openweathermap.org/data/2.5/forecast?lat=18.808630&lon=98.949901&appid=66af6261484edc25c7b1b61803d7547c
+
+
+3.
+X:Y =
+18.808597, 98.949193
+api.openweathermap.org/data/2.5/forecast?lat=18.808597&lon=98.949193&appid=66af6261484edc25c7b1b61803d7547c
+
+
+4.
+X:Y =
+18.805491, 98.951496
+api.openweathermap.org/data/2.5/forecast?lat=18.805491&lon=98.951496&appid=66af6261484edc25c7b1b61803d7547c
+
+
+5.
+X:Y =
+19.019127, 98.918163
+api.openweathermap.org/data/2.5/forecast?lat=19.019127&lon=98.918163&appid=66af6261484edc25c7b1b61803d7547c
+
+
+6.
+X:Y =
+18.800775, 98.989508
+api.openweathermap.org/data/2.5/forecast?lat=18.800775&lon=98.989508&appid=66af6261484edc25c7b1b61803d7547c
